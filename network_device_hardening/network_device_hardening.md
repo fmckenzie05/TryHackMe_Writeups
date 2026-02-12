@@ -6,47 +6,47 @@ platform: TryHackMe
 difficulty: Intermediate
 
 VPN Hardening
-![VPN Hardening Interface](Pasted%20image%2020260212132339.png)
+![VPN Hardening Interface](vpn_hardening.png)
 
 Openwrt
-![Openwrt Interface](Pasted%20image%2020260212133543.png)
+![Openwrt Interface](openwrt.png)
 
 System
-![System Settings](Pasted%20image%2020260212133843.png)
+![System Settings](system_settings.png)
 
 Router Status host name / time zone
-![Router Status and Timezone Configuration](Pasted%20image%2020260212133359.png)
+![Router Status and Timezone Configuration](router_status_timezone.png)
 
 Router Password / Password was changed
-![Router Password Configuration](Pasted%20image%2020260212133944.png)
+![Router Password Configuration](router_password.png)
 
 SSH Access / port 22 configuration
-![SSH Access Configuration](Pasted%20image%2020260212134051.png)
+![SSH Access Configuration](ssh_access_port22.png)
 
 Startup/ init priority scripts
-![Startup Scripts](Pasted%20image%2020260212134225.png)
+![Startup Scripts](startup_scripts.png)
 
 Network Traffic Rules
 Showing Allow-Ping, Allow-DHCP
-![Network Traffic Rules](Pasted%20image%2020260212134556.png)
+![Network Traffic Rules](network_traffic_rules.png)
 
 Status Real Time Graph Traffic
 Network Monitoring
-![Real Time Traffic Graph](Pasted%20image%2020260212134743.png)
+![Real Time Traffic Graph](realtime_traffic_graph.png)
 
 Connections are zero at the moment
-![Connection Status](Pasted%20image%2020260212134848.png)
+![Connection Status](connections_status.png)
 
 Loads
-![System Loads](Pasted%20image%2020260212135036.png)
+![System Loads](system_loads.png)
 
 Network Firewall Port Forward
-![Firewall Port Forward Rules](Pasted%20image%2020260212135121.png)
+![Firewall Port Forward Rules](firewall_port_forward.png)
 
 System Software
 Shows available packages- too many to screenshot
-![Available Packages](Pasted%20image%2020260212135256.png)
-![Package Details](Pasted%20image%2020260212135313.png)
+![Available Packages](available_packages.png)
+![Package Details](package_details.png)
 
 # All Lab Questions
 
