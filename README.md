@@ -1,6 +1,6 @@
 # TryHackMe Writeups
 
-A collection of my TryHackMe room writeups and walkthroughs.
+A collection of my TryHackMe room writeups and lessons learned.
 
 ## Completed Writeups
 
