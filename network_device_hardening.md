@@ -6,43 +6,47 @@ platform: TryHackMe
 difficulty: Intermediate
 
 VPN Hardening
-![[Pasted image 20260212132339.png]]
+![VPN Hardening Interface](Pasted%20image%2020260212132339.png)
+
 Openwrt
-![[Pasted image 20260212133543.png]]
-System 
-![[Pasted image 20260212133843.png]]
+![Openwrt Interface](Pasted%20image%2020260212133543.png)
+
+System
+![System Settings](Pasted%20image%2020260212133843.png)
+
 Router Status host name / time zone
-![[Pasted image 20260212133359.png]]
+![Router Status and Timezone Configuration](Pasted%20image%2020260212133359.png)
 
 Router Password / Password was changed
-![[Pasted image 20260212133944.png]]
+![Router Password Configuration](Pasted%20image%2020260212133944.png)
 
 SSH Access / port 22 configuration
-![[Pasted image 20260212134051.png]]
+![SSH Access Configuration](Pasted%20image%2020260212134051.png)
 
 Startup/ init priority scripts
-![[Pasted image 20260212134225.png]]
+![Startup Scripts](Pasted%20image%2020260212134225.png)
 
-Network Traffic Rules 
+Network Traffic Rules
 Showing Allow-Ping, Allow-DHCP
-![[Pasted image 20260212134556.png]]
+![Network Traffic Rules](Pasted%20image%2020260212134556.png)
 
 Status Real Time Graph Traffic
-Network Monitoring 
-![[Pasted image 20260212134743.png]]
+Network Monitoring
+![Real Time Traffic Graph](Pasted%20image%2020260212134743.png)
 
-Connections are zero at the moment 
-![[Pasted image 20260212134848.png]]
+Connections are zero at the moment
+![Connection Status](Pasted%20image%2020260212134848.png)
 
-Loads 
-![[Pasted image 20260212135036.png]]
+Loads
+![System Loads](Pasted%20image%2020260212135036.png)
 
-Network Firewall Port Forward 
-![[Pasted image 20260212135121.png]]
-System Software 
-Shows available packages- too many to screenshot 
-![[Pasted image 20260212135256.png]]
-![[Pasted image 20260212135313.png]]
+Network Firewall Port Forward
+![Firewall Port Forward Rules](Pasted%20image%2020260212135121.png)
+
+System Software
+Shows available packages- too many to screenshot
+![Available Packages](Pasted%20image%2020260212135256.png)
+![Package Details](Pasted%20image%2020260212135313.png)
 
 # All Lab Questions
 
